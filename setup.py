@@ -20,3 +20,4 @@ setup(
         "py_stringmatching>=0.4.5",
     ],
 )
+
