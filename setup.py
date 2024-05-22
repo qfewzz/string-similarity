@@ -8,7 +8,7 @@ setup(
     description="A library for calculating distance/similarity of two strings using various algorithms.",
     long_description=open("README.md").read(),
     long_description_content_type="text/markdown",
-    url="https://github.com/yourusername/string_similarity",
+    url="https://github.com/qfewzz/string-similarity",
     classifiers=[
         "Programming Language :: Python :: 3",
         "License :: OSI Approved :: MIT License",
